@@ -1,0 +1,9 @@
+# The URL the site will be built for
+base_url = "http://localhost:1111"
+compile_sass = true
+build_search_index = false
+
+[markdown]
+highlight_code = false
+
+[extra]
